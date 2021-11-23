@@ -1,6 +1,6 @@
 <template>
   <header>
-    <h1>Questo è un titolo</h1>
+    <h1>La mia prima app con Vue CLI!</h1>
   </header>
 </template>
 
