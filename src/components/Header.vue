@@ -1,18 +1,23 @@
 <template>
-  <title>
+  <header>
     <h1>La mia prima app con Vue CLI!</h1>
-  </title>
+  </header>
 </template>
 
 <script>
 export default {
-  name: 'Title'
+  name: 'Header'
 }
 </script>
 
 <style scoped>
 h1{
-  color: rebeccapurple;
+  color: blueviolet; 
+  padding: 50px 0;
+}
+header{
+  background-color: pink;
+
 }
 
 </style>
