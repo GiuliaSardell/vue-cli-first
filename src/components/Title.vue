@@ -1,7 +1,7 @@
 <template>
-  <header>
+  <title>
     <h1>La mia prima app con Vue CLI!</h1>
-  </header>
+  </title>
 </template>
 
 <script>
